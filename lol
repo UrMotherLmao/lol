@@ -2,7 +2,7 @@ local bypass1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/UrMot
 local bypass2 = loadstring(game:HttpGet("https://raw.githubusercontent.com/UrMotherLmao/bypass2/main/bypass2",true))();
 local bypass3 = loadstring(game:HttpGet("https://raw.githubusercontent.com/UrMotherLmao/damagebypass/main/script",true))();
 
-local reach = 1.8 -- Put whatever size you want your clean to be here
+local reach = 2 -- Put whatever size you want your clean to be here
 
 coroutine.resume(coroutine.create(function()
 while  wait(1) do
